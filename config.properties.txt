@@ -1,0 +1,4 @@
+nomeAplicacao = Minha Aplicação Teste
+versao = 1.0
+diretorio = C:/
+templates = /home/microservice/v1

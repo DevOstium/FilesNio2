@@ -1,0 +1,5 @@
+#Arquivo config2.txt
+#Tue Jul 09 14:45:54 BRT 2019
+versao=1.0
+usario=admin
+nomeAplicacao=Um nome qualquer
